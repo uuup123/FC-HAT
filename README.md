@@ -1,6 +1,6 @@
 # FC-HAT
 
-Code of Information Sciences paper: FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification
+Code of Information Sciences paper: FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification. Thank you for your interest in our work!
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ run 'train.py'
 
 ## Cite
 
-Please cite our paper if you use this code in your own work:
+If you make advantage of our model in your research, please cite the following in your manuscript:
 ```
 @article{JI20221301,
 title = {FC–HAT: Hypergraph attention network for functional brain network classification},

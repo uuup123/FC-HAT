@@ -1,6 +1,6 @@
 # FC-HAT
 
-The official code of Information science paper: FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification
+Code of Information Sciences paper: FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification
 
 ## Getting Started
 

@@ -1,0 +1,44 @@
+###########################################################################
+############# must check the direction of data before running #############
+###########################################################################
+
+#data
+activate_dataset: 
+path_mat: 
+path_labels: 
+random_state: 
+num_p: 
+n_category: 
+num_nodes: 
+
+#hypergraph construction
+add_self_loop: 
+
+#model
+model: fchat
+k_structured:
+k_nearest:
+k_cluster:
+clusters:
+adjacent_centers:
+n_layers: 
+layer_spec:
+has_bias: 
+cutoff_ratio: 
+
+#warm-up parameter
+wu_knn:
+wu_kmeans:
+wu_struct:
+
+#train
+seed_num: 
+gpu_id: 
+max_epoch: 
+milestones: 
+gamma: 
+lr: 
+drop_out: 
+print_freq: 
+weight_decay: 
+test_time: 
